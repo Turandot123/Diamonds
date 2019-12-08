@@ -1,2 +1,8 @@
 # Diamonds
-test
+
+Executive summary
+
+
+Brief intro about domain
+
+
